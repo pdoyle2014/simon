@@ -1,0 +1,63 @@
+
+
+body{
+  text-align: center;
+  height:100vh;
+  background-image: url(https://lh3.googleusercontent.com/proxy/RruLSlJAdLa_Ysbg8X_AyVso17ltxzHZHggoa94SH46hNe2hJRC5GKYnbXnQzE9cqYpast4ZudG63amdBw7H8HfhqW6bWdV17v7Pl8-1-WWV);
+  background-position: center;
+  background-size: cover;
+  width:100%;
+}
+
+h1{
+  font-family: fantasy;
+  font-weight: 750;
+}
+
+.color-button{
+  height: 250px;
+  width: 250px;
+  outline: none !important;
+}
+
+.highlight{
+  border-width: 5px;
+  border-color: black;
+  opacity: 0.7;
+}
+
+.new-game{
+  font-size: 1.5rem;
+  position:absolute;
+  right: 10%;
+}
+
+
+.score-board{
+  font-size: 1.5rem;
+  position:absolute;
+  right: 10%;
+  top: 20%;
+}
+
+.title{
+  padding: 3% 30%;
+  text-align: center;
+}
+
+
+#red{
+  background-color: red;
+}
+
+#blue{
+  background-color: blue;
+}
+
+#yellow{
+  background-color: yellow;
+}
+
+#green{
+  background-color: green;
+}
